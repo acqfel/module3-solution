@@ -1,2 +1,4 @@
-# module3-solution
-module3 solution
+Angular code
+
+Search for ingredients in restaurant menu
+
