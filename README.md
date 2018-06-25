@@ -2,7 +2,7 @@
 
 ### Library
 
-* Angular v1.5.7
+* Angular v1.5.8
 
 ## Description
 ...
